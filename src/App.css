@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  background-color: #f8f9fa;
+}
+
+.card {
+  border: none;
+}
+
+textarea {
+  resize: none;
+}
+
+.table td {
+  vertical-align: middle;
+}
